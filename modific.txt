@@ -1,1 +1,2 @@
 Fisier creat pentru commit 2
+Modificare aduse in commit 3
